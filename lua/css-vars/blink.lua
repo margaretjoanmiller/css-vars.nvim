@@ -1,5 +1,5 @@
 local Job = require("plenary.job")
-local async = require("blink.lib.async")
+local async = require("blink.lib.task")
 
 local config
 local css_variables
